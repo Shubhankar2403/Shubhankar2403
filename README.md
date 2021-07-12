@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shubhankar2403&label=Profile%20views&color=0e75b6&style=flat" alt="Shubhankar2403" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubhankar2403&theme=nord" alt="Shubhankar2403" /></a> </p>
-<img align="right" alt="Coder" width="500" src="https://www.ravsanmedia.com/web_assets/images/website.gif">
+<img align="right" alt="Coder" width="500" src="https://camo.githubusercontent.com/0fc8c3b0b3a60d061f6f69bc0e7d8fdcab39d0108aaea52863863c20a86bb5a4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6768305252676b54586564764630704463302f67697068792e676966">
 
 - 🌱 I’m currently Studying at **Acharya institute of technology**
 
