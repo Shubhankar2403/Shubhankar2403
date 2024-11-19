@@ -1,6 +1,6 @@
 <body>
 <h1 align="center">Hi 👋,I am Shubhankar </h1>
-<h3 align="center">An aspiring coder and a fast learner, currently in 2nd year pursuing my B. E. from Acharya Institutes of Technology in Information Science. </h3>
+<h3 align="center">An aspiring coder and a fast learner.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shubhankar2403&label=Profile%20views&color=0e75b6&style=flat" alt="Shubhankar2403" /> </p>
 
